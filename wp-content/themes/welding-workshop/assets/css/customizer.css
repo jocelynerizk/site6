@@ -1,0 +1,10 @@
+.control-section-construction-hub h3.accordion-section-title {
+    color: #ce9233 !important;
+    border: 2px solid #ce9233 !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+a.button.button-secondary.alignright{
+    background: #181614;
+    color: #ce9233 !important;
+}
